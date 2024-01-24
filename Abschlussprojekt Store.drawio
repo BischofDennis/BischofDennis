@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T15:54:22.919Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" etag="GVLqbmCmCRthcMIc1Mni" version="22.1.22" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T17:07:36.792Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" etag="MIpmG9pZhUoQ1JCP-d6f" version="22.1.22" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="5111" dy="3147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
           <mxGeometry y="68" width="545" height="62" as="geometry" />
         </mxCell>
         <mxCell id="dB1WfCZlKLVQ1_dV9HRf-12" value="Produkt" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="91" y="320" width="417.5" height="490" as="geometry" />
+          <mxGeometry x="130" y="324" width="417.5" height="490" as="geometry" />
         </mxCell>
         <mxCell id="dB1WfCZlKLVQ1_dV9HRf-13" value="+ name: String&lt;br&gt;&lt;br&gt;+ preis: Double&lt;br&gt;&lt;br&gt;+ produktnummer: &amp;nbsp;Integer&lt;br&gt;&lt;br&gt;+ verfuegbar: Boolean&lt;br&gt;&lt;br&gt;+ anzahl: Integer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" parent="dB1WfCZlKLVQ1_dV9HRf-12" vertex="1">
           <mxGeometry y="26" width="417.5" height="234" as="geometry" />
