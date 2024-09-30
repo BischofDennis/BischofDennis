@@ -1,13 +1,5 @@
 ### 
-Leg deinen Kummer in ein Lächeln
-und all dein Sehnen in ein Lied,
-damit kein fremdes Menschenauge
-dein tiefes, bittres Herzweh sieht.
-
-Trag deinen Kummer nur dem Freunde,
-vertrau den Menschen nicht dein Leid.
-Sie rauben dir mit ihren Worten
-selbst deines Schmerzes Heiligkeit.
+Ex deo nascimur🥚In Christo morimur🌹Per spiritum sanctum reviviscimus🍇
 
 <!--
 **BischofDennis/BischofDennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
