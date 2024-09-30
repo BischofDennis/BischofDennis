@@ -1,4 +1,5 @@
-### Leg deinen Kummer in ein Lächeln
+### 
+Leg deinen Kummer in ein Lächeln
 und all dein Sehnen in ein Lied,
 damit kein fremdes Menschenauge
 dein tiefes, bittres Herzweh sieht.
