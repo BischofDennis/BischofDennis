@@ -1,5 +1,4 @@
-### 
-Ex deo nascimur🥚In Christo morimur🌹Per spiritum sanctum reviviscimus🍇
+### Ex deo nascimur🥚In Christo morimur🌹Per spiritum sanctum reviviscimus🍇
 
 <!--
 **BischofDennis/BischofDennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
